@@ -28,3 +28,9 @@ First, clone the repository to your local machine:
 ```bash
 git clone https://github.com/sp2010/ocr_app.git
 cd YOUR_REPOSITORY
+
+
+
+<div align="center">
+Built with ❤️ by the Surya
+</div>
